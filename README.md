@@ -2,7 +2,7 @@ Segundo Parcial SPD
  Tema: "Sistema de incendio"  
 
 
-
+![Imagen del proyecto](sistemaDeIncendio.jpg "Sistema de incendio")
 ## Alumno:
 Carlos Ariel Martinez 1-G
 
