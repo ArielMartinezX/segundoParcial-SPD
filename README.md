@@ -1,5 +1,5 @@
-Segundo Parcial SPD  
- Tema: "Sistema de incendio"  
+# Segundo Parcial SPD  
+## Tema: "Sistema de incendio"  
 
 ![imagen](https://github.com/ArielMartinezX/segundoParcial-SPD/assets/118086597/53e3e19b-4cb8-4e52-ba7b-dafc74fe1a8b)
 
