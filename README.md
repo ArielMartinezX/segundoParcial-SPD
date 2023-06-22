@@ -89,4 +89,4 @@ void loop()
 [Link](https://www.tinkercad.com/things/79ESsgdAia7-copy-of-2do-parcial/editel?sharecode=q3Z8gJX6uusOfFdIetwR3k6cmZfnc4SPvQZaBZatIXg)
 
 ## Link al codigo completo en GDB Online
-[Link](https://onlinegdb.com/Xpa4JtnaT)
+[Link](https://onlinegdb.com/xmXr9dsX8R)
